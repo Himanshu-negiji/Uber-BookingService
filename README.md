@@ -34,5 +34,6 @@ This project is a distributed microservice system designed for an Uber-like appl
   Driver Schema - <img width="1358" alt="Screenshot 2024-09-17 at 4 01 54 PM" src="https://github.com/user-attachments/assets/9e9033ce-fa0f-4ebb-b0a9-7fd7dc54fcdd">
   Passenger Schema - <img width="1379" alt="Screenshot 2024-09-17 at 4 02 28 PM" src="https://github.com/user-attachments/assets/7c43639a-9f5a-47be-bb0a-cb982ae4ad50">
 
-  Driver Location - <img width="617" alt="Screenshot 2024-09-17 at 4 03 19 PM" src="https://github.com/user-attachments/assets/f213d4dc-46d0-4471-9fef-0e064ba5ff12">
+  Driver Location - 
+  <img width="617" alt="Screenshot 2024-09-17 at 4 03 19 PM" src="https://github.com/user-attachments/assets/f213d4dc-46d0-4471-9fef-0e064ba5ff12">
 
